@@ -1,0 +1,6 @@
+{
+  "name": "Skill99",
+  "description": "A high-end, professional EdTech learning platform to build skills, complete real-world projects, track career roadmaps, and learn with an AI tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
